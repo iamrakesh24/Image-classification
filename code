@@ -32,3 +32,4 @@ dtc = DecisionTreeClassifier(max_depth=17) dtc.fit(X ,y)
 
 #to predict the score dtc.score(X, y)
 dtc.predict(X[[478, 258, 254,369,222], 0:78])
+1d
